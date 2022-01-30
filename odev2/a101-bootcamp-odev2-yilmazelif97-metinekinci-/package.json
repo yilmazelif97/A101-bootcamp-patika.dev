@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "bu patikanin backendi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "errorhandler": "^1.5.1",
+    "express": "^4.17.2",
+    "express-jwt": "^6.1.0",
+    "http": "0.0.1-security",
+    "joi": "^17.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "md5": "^2.3.0"
+  }
+}

@@ -1,0 +1,11 @@
+
+Typescript - Javascript arasındaki farklar;
+
+1)Javascript OOP yi çok fazla desteklemiyor betik dil, Typescript OOP destekler
+2)Js de sadece dynamic typing, Ts de dynamic ve static typing vardır
+3)Ts hem client hem server sidedır, Js client side fakat server side da yüksek performans gösteremez
+4)Ts büyük projeler için daha uygunlen Js küçük projeler için daha uygundur çünkü kod kontrolü proje büyüdükçe zorlaşır
+5)Ts de data binding var(types, interfaces), Js de böyle bir konsept yok
+6)Ts, compiler installation lazımken Js de böyle bir kuruluma gerek yok
+7)Ts prototip oluştururken Js de oluşturulmaz
+8) Js de derleme aşaması yok, kod çalıştırıldıktan sonra hatalar bulunur. Ts de derleme aşamasında hata kontrolü yapar
